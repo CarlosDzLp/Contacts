@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Contacts.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:font="clr-namespace:Contacts.Fonts">
+    <ContentPage.Content>
+        <Grid>
+            <CollectionView
+                x:Name="collectionView"
+                ItemSizingStrategy="MeasureAllItems"
+                ScrollToRequested="collectionView_ScrollToRequested"
+                Scrolled="collectionView_Scrolled"
+                SelectionMode="Single"
+                VerticalScrollBarVisibility="Never">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <StackLayout Padding="20,10">
+                            <Label Text="{Binding Name}" TextColor="Black" />
+                            <Label Text="{Binding Email}" TextColor="Black" />
+                        </StackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Frame
+                x:Name="framechat"
+                Margin="0,0,30,30"
+                Padding="15"
+                BackgroundColor="Blue"
+                CornerRadius="40"
+                HeightRequest="25"
+                HorizontalOptions="End"
+                VerticalOptions="End"
+                WidthRequest="25">
+                <StackLayout Orientation="Horizontal">
+                    <Image Margin="3,0,0,0">
+                        <Image.Source>
+                            <FontImageSource
+                                FontFamily="SolidPro"
+                                Glyph="{x:Static font:FontAwesomeIcons.Message}"
+                                Size="20"
+                                Color="White" />
+                        </Image.Source>
+                    </Image>
+                    <StackLayout>
+                        <Label
+                            Margin="0,0,0,5"
+                            Text="Iniciar Chat"
+                            TextColor="White"
+                            VerticalOptions="CenterAndExpand"
+                            VerticalTextAlignment="Center" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

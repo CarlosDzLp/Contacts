@@ -1,0 +1,14 @@
+/Users/carlosdiaz/Contacts/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.deps.json
+/Users/carlosdiaz/Contacts/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.dll
+/Users/carlosdiaz/Contacts/Contacts/Contacts/bin/Debug/netstandard2.0/ref/Contacts.dll
+/Users/carlosdiaz/Contacts/Contacts/Contacts/bin/Debug/netstandard2.0/Contacts.pdb
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csprojAssemblyReference.cache
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfoInputs.cache
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.AssemblyInfo.cs
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.dll
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/ref/Contacts.dll
+/Users/carlosdiaz/Contacts/Contacts/Contacts/obj/Debug/netstandard2.0/Contacts.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "94P4cdGzORan5qEovYoQK0UQcH2gXZ6PpZ9tNu39UHcpYoaLglO+XVP5hljkae899JhLVFL7c9JYmdLDPBUokg==",
+  "success": true,
+  "projectFilePath": "/Users/carlosdiaz/Contacts/Contacts/Contacts.iOS/Contacts.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosdiaz/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.forms.contacts/1.0.5/xamarin.forms.contacts.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

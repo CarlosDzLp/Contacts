@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{6AC9EDE8-D6B2-4DB1-867D-7A945BFDC684}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Contacts" expanded="True">
+            <Node name="Contacts" expanded="True">
+              <Node name="Fonts" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Contacts.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.R58M71K1VLF" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Contacts.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

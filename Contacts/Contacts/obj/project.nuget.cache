@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxwY1do83eMWFo82VPavW+5WaxP8EnTSR1QuBEcp5bn0r6c66ou7ACn+P9ZlFQ2dSfUbDYchq3v/9jYoXVW+Gw==",
+  "success": true,
+  "projectFilePath": "/Users/carlosdiaz/Contacts/Contacts/Contacts/Contacts.csproj",
+  "expectedPackageFiles": [
+    "/Users/carlosdiaz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512",
+    "/Users/carlosdiaz/.nuget/packages/xamarin.forms.contacts/1.0.5/xamarin.forms.contacts.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
